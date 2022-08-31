@@ -48,7 +48,7 @@ p {
     font-family: sans-serif;
     line-height: 2rem;
     transform: rotateX(45deg);
-    transition: top 20s;    
+    transition: top 20s ease-out;    
 }
 section:hover p {
     top: -750px;
